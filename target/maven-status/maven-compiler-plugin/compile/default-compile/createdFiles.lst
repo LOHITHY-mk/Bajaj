@@ -1,0 +1,6 @@
+com\example\bfh\Application.class
+com\example\bfh\service\WebhookClient.class
+com\example\bfh\model\GenerateWebhookResponse.class
+com\example\bfh\model\SubmitRequest.class
+com\example\bfh\logic\SqlSolver.class
+com\example\bfh\config\WebClientConfig.class
